@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Original Surfer', cursive;
+    background-color: #3B3B98;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    font-size: 2rem;
+}
